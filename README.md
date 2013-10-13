@@ -1,5 +1,5 @@
-MyProjects
-==========
+MyProjects SHOWCASE
+===================
 To preview my game
 
 1) https://rawgithub.com/xeeker/MyProjects/master/games/mygame.html
