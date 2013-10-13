@@ -1,4 +1,4 @@
-MyProjects SHOWCASE
+My Project's SHOWCASE
 ===================
 To preview my game
 
