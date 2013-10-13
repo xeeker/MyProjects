@@ -1,0 +1,47 @@
+ #health .ui-progressbar-value {   
+	background: green; 
+  }
+  
+  .floats {	
+	display:block; background-color:#FFF;
+	width:100px;
+	border-bottom:1px solid #bbb;  
+  }
+  
+  .countdown {	
+	display:block; background-color:#FFF;
+	width:100px;
+	height:50px;
+	border-bottom:1px solid #bbb;  
+  }
+  
+  #progressbar .ui-progressbar-value { background: #ffd700; }
+  
+  .progress-label {
+    position: absolute;
+    top: 65px;
+    font-weight: bold;
+    color: #bbb;
+  }
+  
+  .score-label {
+	float:right;
+    position: relative;
+	left: -1%;
+    top: 4px;
+    font-weight: bold;
+	display:block; background-color:#e8e8e8;
+	width:100px;
+    color: blue;
+  }
+   
+  #floater {
+	position:relative; float:left;
+	height:50%;	margin-bottom:-200px;
+	width:300px;
+	display:block; background-color:#e8e8e8;
+	padding:7px; margin:0;
+	text-decoration:none; color:#000;
+	border-bottom:1px solid #bbb;
+	text-align:left;
+}
